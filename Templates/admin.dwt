@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>homepage</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../css/homepage.css"/>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="Container">
+	<div id="Header">
+		<div id="logo"></div>
+        <div id="search">
+			<h1 align="center" >Administration Mode</h1>
+        </div>
+        <div id="admin_compt">
+        <a href="../login.html">MON COMPTE</a>
+        &nbsp;
+        <a href="../homepage.html">EXIT</a>
+        </div>
+        
+    </div>
+    <div id="Content">
+	<!-- TemplateBeginEditable name="EditRegion3" -->
+    EditRegion3
+	<!-- TemplateEndEditable -->
+    </div>
+    <div class="Clear"></div>
+    <div id="Footer">Copyright © 2014-2015 abcd Inc. Tous droits réservés.</div>
+</div>
+</body>
+</html>
